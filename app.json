@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Team Announcer",
+    "slug": "team-announcer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
